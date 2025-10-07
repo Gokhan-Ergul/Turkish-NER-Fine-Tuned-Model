@@ -2,7 +2,9 @@
 
 ## Description
 This repository contains a **BERT-based Turkish Named Entity Recognition (NER) model** fine-tuned on the [erayyildiz/turkish_ner](https://huggingface.co/datasets/erayyildiz/turkish_ner) dataset.  
-The base model used for fine-tuning is [`dbmdz/bert-base-turkish-w`](https://huggingface.co/dbmdz/bert-base-turkish-w).  
+The base model used for fine-tuning is [`dbmdz/bert-base-turkish-w`](https://huggingface.co/dbmdz/bert-base-turkish-w). 
+
+## Use my fine-tuned Model: [https://huggingface.co/gokhanErgul/turkish-ner-outpu](https://huggingface.co/gokhanErgul/turkish-ner-output)
 
 After fine-tuning for 1 epoch, the model achieved the following metrics on the validation set:
 
