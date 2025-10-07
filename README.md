@@ -20,7 +20,6 @@ This project is inspired by the [Hugging Face LLM course, Chapter 7](https://hug
 ---
 
 ## 🧰 Repository Structure
-- `output_ner/` – Fine-tuned model folder  
 - `Explanation.ipynb` – Detailed explanations of data preprocessing & label alignment  
 - `Token Classification.ipynb` – Notebook used for training (example code & outputs)  
 - `README.md`  
