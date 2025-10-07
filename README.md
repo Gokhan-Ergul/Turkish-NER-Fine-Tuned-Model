@@ -15,7 +15,6 @@ After fine-tuning for 1 epoch, the model achieved the following metrics on the v
 - **F1-score:** 0.6584  
 - **Accuracy:** 0.8835  
 
-This project is inspired by the [Hugging Face LLM course, Chapter 7](https://huggingface.co/learn/llm-course/chapter7/2#fine-tuning-the-model).
 
 ---
 
